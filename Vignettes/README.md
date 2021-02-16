@@ -1,4 +1,4 @@
-#VignettesDistribution
+# Vignettes Distribution System
 
 Program simulating selling vignettes by a gas station. Each driver can
 buy a single vignette for a single vehicle he owns, or he can buy vignettes
